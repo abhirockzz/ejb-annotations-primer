@@ -1,0 +1,6 @@
+{
+  "name": "EJB Annotations Primer",
+  "tagline": "Code repo for the 'EJB Annotations Primer' (mini) book",
+  "body": "# EJB Annotations Primer\r\n\r\nEJBs are not about XMLs and interfaces any more. They offer a simplified, declarative and POJO based programming model powered by annotations. These are used by the the container to weave its magic at runtime. In other words, the container does all the heavy lifting for you once you communicate your requirements via annotations. From a Java EE developer standpoint, the real magic of EJBs lies in its annotation driven programming model. This is personified by its API layout which consists of 32 annotations. Investing some time in getting a strong hold on the practical usage of these annotations might be well worth it !\r\n\r\nThis book consists of short chapters, each of which cover a specific part of the EJB specification. Here is a comprehensive list - life cycle management, dependency & resource injection, pooling, concurrency, web services, interceptors, security, transactions, schedulers & timers, asynchronous model, eager initialization, heterogenous interfaces/views and exception handling.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
